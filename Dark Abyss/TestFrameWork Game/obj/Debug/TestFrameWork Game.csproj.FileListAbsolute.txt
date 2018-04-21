@@ -1,0 +1,58 @@
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Background.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\BattleAxe.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\BottomDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\BottomWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\CollisionTexture.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Doorsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Fireball.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\FloorTile.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Ghost.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Ghostsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Hero.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Herosheetwalking.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Instructions.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\LeftDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\LeftWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Options.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Play.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Player.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Quit.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\RightDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\RightWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Tombstone.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\TopDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\TopWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Wallsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Werewolf.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\TestFrameWork Game.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\TestFrameWork Game.pdb
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\FrameWork Game.exe
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\MonoGame.Framework.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.XInput.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\FrameWork Game.pdb
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\MonoGame.Framework.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.XInput.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.RawInput.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\obj\Debug\TestFrameWork Game.csprojResolveAssemblyReference.cache
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\obj\Debug\TestFrameWork Game.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\obj\Debug\TestFrameWork Game.pdb
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\BattleAxe128.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\MageStaff.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Sword.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\TestFrameWork Game\bin\Debug\Content\Pillar.png

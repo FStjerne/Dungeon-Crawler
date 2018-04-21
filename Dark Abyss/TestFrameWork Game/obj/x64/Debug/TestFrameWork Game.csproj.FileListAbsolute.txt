@@ -1,0 +1,274 @@
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\SampleFont.xnb
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\firball.wav
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Arcaneball.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Arrow.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Background.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\BattleAxe.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\BottomDoor.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\BottomWall.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\bow.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\CollisionTexture.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Demonsheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Doorsheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Fireball.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\FloorTile.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Gargoylesheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Ghost.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Ghostsheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Hellfireball.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Hellfireball44.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Hero.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Herosheetwalking.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Instructions.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\LeftDoor.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\LeftWall.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\MageStaff.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Options.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Pillar.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Play.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Player.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Quit.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\RightDoor.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\RightWall.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Scythe.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Sword.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Tombstone.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\TopDoor.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\TopWall.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Vampiresheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Wallsheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Warhammer.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Werewolf.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Werewolfsheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Wizardsheet.png
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\SampleFont.spritefont
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\TestFrameWork Game.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\TestFrameWork Game.pdb
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\FrameWork Game.exe
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\MonoGame.Framework.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\System.Data.SQLite.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.MediaFoundation.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XAudio2.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D11.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.DXGI.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct2D1.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XInput.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.RawInput.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D9.dll
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\FrameWork Game.pdb
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\MonoGame.Framework.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.MediaFoundation.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XAudio2.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D11.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.DXGI.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct2D1.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XInput.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.RawInput.xml
+H:\Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D9.xml
+H:\Core to Dark Abyss\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.csprojResolveAssemblyReference.cache
+H:\Core to Dark Abyss\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.dll
+H:\Core to Dark Abyss\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.pdb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\ArrowSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\AxeSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\DemonSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\FireballSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\GargoyleSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\GhostSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\SpockyMusic.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\SwordSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\ThunderSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\VampireSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\WerewolfSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\WizardSound.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\SampleFont.xnb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\AxeSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\DemonSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\FireballSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\GargoyleSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\GhostSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\SpockyMusic.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\SwordSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\ThunderSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\VampireSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\WerewolfSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Audio\WizardSound.wav
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Borderless_Fullscreen.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Arcaneball.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Arrow.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Background.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\BattleAxe.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\BottomDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\BottomWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\bow.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\CollisionTexture.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Demonsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Doorsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Fireball.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\FloorTile.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Fullscreen.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Gargoylesheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Ghost.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Ghostsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Hellfireball.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Hellfireball44.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Hero.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Herosheetwalking.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Instructions.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\LeftDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\LeftWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\MageStaff.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Main_Menu.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Options.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Pillar.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Play.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Player.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Quit.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Reset_Progression.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\RightDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\RightWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Scythe.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Sword.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Tombstone.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\TopDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\TopWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Vampiresheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Wallsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Warhammer.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Werewolf.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Werewolfsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Windowed.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\Wizardsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Content\SampleFont.spritefont
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\TestFrameWork Game.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\TestFrameWork Game.pdb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\FrameWork Game.exe
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\MonoGame.Framework.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XAudio2.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.DXGI.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XInput.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.RawInput.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\FrameWork Game.pdb
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\MonoGame.Framework.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XAudio2.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.DXGI.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.XInput.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.RawInput.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.csprojResolveAssemblyReference.cache
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.dll
+C:\Users\Nicklas\Desktop\MapPrototype\With Data Core to Dark Abyss\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.pdb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\ArrowSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\AxeSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\DemonSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\FireballSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\GargoyleSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\GhostSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\SpockyMusic.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\SwordSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\ThunderSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\VampireSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\WerewolfSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\WizardSound.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\SampleFont.xnb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\AxeSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\DemonSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\FireballSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\GargoyleSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\GhostSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\SpockyMusic.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\SwordSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\ThunderSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\VampireSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\WerewolfSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Audio\WizardSound.wav
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Borderless_Fullscreen.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Arcaneball.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Arrow.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Background.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\BattleAxe.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\BottomDoor.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\BottomWall.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\bow.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\CollisionTexture.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Demonsheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Doorsheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Fireball.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\FloorTile.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Fullscreen.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Gargoylesheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Ghost.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Ghostsheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Hellfireball.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Hellfireball44.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Hero.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Herosheetwalking.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\How_to_Play.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Instructions.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\LeftDoor.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\LeftWall.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\MageStaff.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Main_Menu.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Options.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Pillar.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Play.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Player.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Quit.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Reset_Progression.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\RightDoor.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\RightWall.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Scythe.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Sword.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Tombstone.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\TopDoor.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\TopWall.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Vampiresheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Wallsheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Warhammer.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Werewolf.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Werewolfsheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Windowed.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\Wizardsheet.png
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Content\SampleFont.spritefont
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\TestFrameWork Game.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\TestFrameWork Game.pdb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\FrameWork Game.exe
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\MonoGame.Framework.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.XAudio2.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.DXGI.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.XInput.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.RawInput.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\FrameWork Game.pdb
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\MonoGame.Framework.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.XAudio2.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.DXGI.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.XInput.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.RawInput.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\bin\x64\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.csprojResolveAssemblyReference.cache
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.dll
+C:\Users\Nicklas\Desktop\With Data Core to Dark Abyss New Menu\TestFrameWork Game\obj\x64\Debug\TestFrameWork Game.pdb

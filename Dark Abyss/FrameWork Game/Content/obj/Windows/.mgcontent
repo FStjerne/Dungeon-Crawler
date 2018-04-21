@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/SampleFont.spritefont</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/AxeSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/DemonSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/FireballSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/GargoyleSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/GhostSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/SwordSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/ThunderSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/VampireSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/WerewolfSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/WizardSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/ArrowSound.wav</File>
+    <File>C:/Users/Nicklas/Desktop/With Data Core to Dark Abyss New Menu/FrameWork Game/Content/Audio/SpockyMusic.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

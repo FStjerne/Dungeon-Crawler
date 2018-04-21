@@ -1,0 +1,55 @@
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Background.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\BattleAxe.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\BottomDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\BottomWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\CollisionTexture.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Doorsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Fireball.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\FloorTile.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Ghost.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Ghostsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Hero.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\HeroSheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Herosheetwalking.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\HeroStrip.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Instructions.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\LeftDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\LeftWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Options.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Play.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Player.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Quit.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\RightDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\RightWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\SlimeSheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\SlimeSheetBusiness.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\SlimeSheetPirate.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Tombstone.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\TopDoor.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\TopWall.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Wallsheet.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\Content\Werewolf.png
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\FrameWork Game.exe
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\FrameWork Game.pdb
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.RawInput.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.RawInput.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\bin\Windows\Release\SharpDX.Direct3D9.xml
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\obj\x86\Release\FrameWork Game.exe
+C:\Users\Nicklas\Desktop\MapPrototype\Core to Dark Abyss\FrameWork Game\obj\x86\Release\FrameWork Game.pdb
